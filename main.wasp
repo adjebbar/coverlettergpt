@@ -4,10 +4,10 @@ app applyai {
   },
   title: "CoverLetterGPT",
   head: [
-        "<meta property=\"title\" content=\"CoverLetterGPT\" />",
-        "<meta property=\"description\" content=\"Créez des lettres de motivation uniques basées sur vos compétences avec GPT. Boostez votre recherche d'emploi.\" />",
+        "<meta property=\"title\" content=\"CoverLetterAI\" />",
+        "<meta property=\"description\" content=\"Créez des lettres de motivation uniques basées sur vos compétences avec AI. Boostez votre recherche d'emploi.\" />",
         "<meta property=\"og:title\" content=\"CoverLetterGPT\" />",
-        "<meta property=\"og:description\" content=\"Rédigez des lettres de motivation personnalisées en fonction de vos compétences grâce à GPT. Optimisez votre recherche d'emploi.\" />",
+        "<meta property=\"og:description\" content=\"Rédigez des lettres de motivation personnalisées en fonction de vos compétences grâce à AI. Optimisez votre recherche d'emploi.\" />",
         "<meta property=\"og:type\" content=\"website\" />",
         "<meta property=\"og:image\" content=\"https://CoverLetterGPT.xyz/homepage.png\" />",
         "<meta name=\"twitter:image\" content=\"https://CoverLetterGPT.xyz/homepage.png\" />",
